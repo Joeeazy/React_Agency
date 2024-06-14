@@ -7,21 +7,21 @@ export default function Services() {
       title: "Membership Organisations",
       description:
         "Our membership management software provides full automation of membership renewals and payments",
-      image: "/public/images/services/icon1.png",
+      image: "/images/services/icon1.png",
     },
     {
       id: 2,
       title: "National Associations",
       description:
         "Our membership management software provides full automation of membership renewals and payments",
-      image: "/public/images/services/icon2.png",
+      image: "/images/services/icon2.png",
     },
     {
       id: 3,
       title: "Membership Clubs And Groups",
       description:
         "Our membership management software provides full automation of membership renewals and payments",
-      image: "/public/images/services/icon3.png",
+      image: "/images/services/icon3.png",
     },
   ];
   return (
