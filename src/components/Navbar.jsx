@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Link } from "react-scroll";
 import logo from "/images/Icon.png";
 import { FaBars, FaXmark } from "react-icons/fa6";
-
+import "../App.css";
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isSticky, setIsSticky] = useState(false);
