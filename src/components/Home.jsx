@@ -42,7 +42,7 @@ export default function Home() {
                   in 4 months
                 </span>
               </h1>
-              <p className="text-neutralDGrey text-base mb-8">
+              <p className="text-neutralDGrey text-base">
                 Where to grow your business as a photographer: site or social
                 media
               </p>
