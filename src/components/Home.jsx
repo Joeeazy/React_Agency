@@ -3,7 +3,7 @@ import { Carousel } from "flowbite-react";
 import illustration from "/images/Illustration.png";
 export default function Home() {
   return (
-    <div className="bg-neutralSilver ">
+    <div className="bg-neutralSilver" id="home">
       <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto min-h-screen h-screen ">
         <Carousel className="w-full mx-auto">
           {/* slide 1 */}

@@ -44,7 +44,7 @@ export default function Services() {
         </div>
 
         {/* services card */}
-        <div className="mt-20 md:w-1/2 mx-auto text-center">
+        <div className="mt-20 md:w-1/2 mx-auto text-center" id="service">
           <h2 className="text-4xl text-black font-semibold mb-3">
             Manage your entire community <br />
             in a single system
