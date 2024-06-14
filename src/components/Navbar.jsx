@@ -14,7 +14,7 @@ export default function Navbar() {
     setIsMenuOpen(!isMenuOpen);
   };
 
-  // useEffect hook?
+  // useEffect sticky navbar effect
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 100) {
