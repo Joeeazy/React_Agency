@@ -54,8 +54,12 @@ To start the development server, run:
 
 ```bash
 npm run dev
+```
 
 ![Banner2](/public/images/readme/banner2.png)
 
 ![Banner3](/public/images/readme/banner3.png)
+
+```
+
 ```
